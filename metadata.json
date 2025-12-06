@@ -1,0 +1,5 @@
+{
+  "name": "Ethos - Ethical Dilemma Simulator",
+  "description": "A powerful simulator for exploring complex ethical dilemmas through stakeholder analysis and debates with historical figures using Gemini 2.5.",
+  "requestFramePermissions": []
+}
